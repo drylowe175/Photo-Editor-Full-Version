@@ -256,4 +256,4 @@ This repository serves as the official landing page for Photo! Editor. The softw
 **Get the most recent version of Photo! Editor today!**
 
 ---
-**Last updated:** 2026-09-09 22:08:06 UTC
+**Last updated:** 2026-09-10 00:43:40 UTC
